@@ -17,4 +17,4 @@ The contents of this notebook are based on the following references:
 
 ## Did you find an erratum? Do you believe the materials can be improved upon?
 
-If so, please [open an issue](https://github.com/luksgrin/opensense-algebra-and-kzg/issues) so we can discuss and take care of the matter! I'm sure there are mistakes that can be fixed 😃
+If so, please [open an issue](https://github.com/luksgrin/opensense-algebra-and-kzg/issues/new) so we can discuss and take care of the matter! I'm sure there are mistakes that can be fixed 😃
